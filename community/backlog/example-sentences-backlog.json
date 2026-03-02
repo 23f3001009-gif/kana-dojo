@@ -276,7 +276,7 @@
     "jlpt": "N3",
     "id": 31,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "宿題を忘れないように、カレンダーに書いておきます。",
@@ -285,7 +285,7 @@
     "jlpt": "N4",
     "id": 32,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "店員さんにおすすめの料理を聞いてみた。",
@@ -303,7 +303,7 @@
     "jlpt": "N2",
     "id": 34,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "漢字の意味を文脈で推測する力が大切だ。",
@@ -312,7 +312,7 @@
     "jlpt": "N2",
     "id": 35,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "週末は友達と映画を見に行くつもりです。",
@@ -320,7 +320,7 @@
     "english": "I plan to go to a movie with friends this weekend.",
     "jlpt": "N4",
     "id": 36,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
