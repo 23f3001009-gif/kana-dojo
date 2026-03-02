@@ -187,6 +187,66 @@ export const CURSOR_TRAIL_EFFECTS: EffectDefinition[] = [
     emoji: '\u{1F358}',
     description: 'Rice crackers scatter in your trail',
   },
+  {
+    id: 'dragon',
+    name: 'Dragon',
+    emoji: '\u{1F409}',
+    description: 'Dragons spiral behind your cursor',
+  },
+  {
+    id: 'tsukimi',
+    name: 'Tsukimi',
+    emoji: '\u{1F391}',
+    description: 'Moon-viewing decorations drift behind your cursor',
+  },
+  {
+    id: 'sake',
+    name: 'Sake',
+    emoji: '\u{1F376}',
+    description: 'Sake bottles float behind your cursor',
+  },
+  {
+    id: 'gyoza',
+    name: 'Gyoza',
+    emoji: '\u{1F95F}',
+    description: 'Dumplings tumble behind your cursor',
+  },
+  {
+    id: 'bento',
+    name: 'Bento',
+    emoji: '\u{1F371}',
+    description: 'Bento boxes trail your movement',
+  },
+  {
+    id: 'deer',
+    name: 'Nara Deer',
+    emoji: '\u{1F98C}',
+    description: 'Nara deer wander behind your cursor',
+  },
+  {
+    id: 'narutomaki',
+    name: 'Narutomaki',
+    emoji: '\u{1F365}',
+    description: 'Fish cake swirls drift in your wake',
+  },
+  {
+    id: 'redenvelope',
+    name: 'Red Envelope',
+    emoji: '\u{1F9E7}',
+    description: 'Lucky red envelopes float behind your cursor',
+  },
+  {
+    id: 'mooncake',
+    name: 'Moon Cake',
+    emoji: '\u{1F96E}',
+    description: 'Mid-Autumn moon cakes trail your movement',
+  },
+  {
+    id: 'kadomatsu',
+    name: 'Kadomatsu',
+    emoji: '\u{1F38D}',
+    description: 'New Year bamboo decorations trail your cursor',
+  },
 ];
 
 export const CLICK_EFFECTS: EffectDefinition[] = [
@@ -370,5 +430,65 @@ export const CLICK_EFFECTS: EffectDefinition[] = [
     name: 'Senbei',
     emoji: '\u{1F358}',
     description: 'Rice crackers scatter from each click',
+  },
+  {
+    id: 'dragon',
+    name: 'Dragon',
+    emoji: '\u{1F409}',
+    description: 'Dragons burst outward from each click',
+  },
+  {
+    id: 'tsukimi',
+    name: 'Tsukimi',
+    emoji: '\u{1F391}',
+    description: 'Moon-viewing decorations scatter from each click',
+  },
+  {
+    id: 'sake',
+    name: 'Sake',
+    emoji: '\u{1F376}',
+    description: 'Sake bottles scatter from each click',
+  },
+  {
+    id: 'gyoza',
+    name: 'Gyoza',
+    emoji: '\u{1F95F}',
+    description: 'Dumplings burst from each click',
+  },
+  {
+    id: 'bento',
+    name: 'Bento',
+    emoji: '\u{1F371}',
+    description: 'Bento boxes scatter from each click',
+  },
+  {
+    id: 'deer',
+    name: 'Nara Deer',
+    emoji: '\u{1F98C}',
+    description: 'Nara deer scatter from each click',
+  },
+  {
+    id: 'narutomaki',
+    name: 'Narutomaki',
+    emoji: '\u{1F365}',
+    description: 'Fish cake swirls burst from each click',
+  },
+  {
+    id: 'redenvelope',
+    name: 'Red Envelope',
+    emoji: '\u{1F9E7}',
+    description: 'Lucky red envelopes scatter from each click',
+  },
+  {
+    id: 'mooncake',
+    name: 'Moon Cake',
+    emoji: '\u{1F96E}',
+    description: 'Mid-Autumn moon cakes burst from each click',
+  },
+  {
+    id: 'kadomatsu',
+    name: 'Kadomatsu',
+    emoji: '\u{1F38D}',
+    description: 'New Year bamboo decorations scatter from each click',
   },
 ];
